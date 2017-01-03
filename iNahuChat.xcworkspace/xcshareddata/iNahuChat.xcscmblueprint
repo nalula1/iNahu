@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "00C6DD7883B21CB38F7680623F85B145A1B97A97",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F6F08D1F2C2F5B738ECA6D410D0E95305BC19D1F" : 9223372036854775807,
+    "00C6DD7883B21CB38F7680623F85B145A1B97A97" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8644E6CF-B0D3-4E76-9DD7-9425C9B46005",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F6F08D1F2C2F5B738ECA6D410D0E95305BC19D1F" : "",
+    "00C6DD7883B21CB38F7680623F85B145A1B97A97" : "iNahuChat\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "iNahuChat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "iNahuChat.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nalula1\/iNahu.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "00C6DD7883B21CB38F7680623F85B145A1B97A97"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nalula1\/EarthQuakes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F6F08D1F2C2F5B738ECA6D410D0E95305BC19D1F"
+    }
+  ]
+}
